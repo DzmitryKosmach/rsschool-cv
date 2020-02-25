@@ -1,2 +1,1 @@
-# rsschool-cv
-init: task Markdown &amp; Git
+https://DzmitryKosmach.github.io/rsschool-cv/cv
