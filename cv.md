@@ -36,4 +36,4 @@ public final class ClassSingleton {
 ### 7. Education
 > Some trainings at EPAM
 ### 8. English
-> English
+> English courses May - August 2019
